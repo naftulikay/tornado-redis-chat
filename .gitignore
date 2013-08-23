@@ -1,0 +1,13 @@
+# Python Ignore Filters
+*.pyc
+*.pyo
+
+# Buildout Ignore Filters
+bin
+build
+develop-eggs
+dist
+eggs
+parts
+.installed.cfg
+src/*.egg-info
